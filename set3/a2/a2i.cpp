@@ -1,3 +1,5 @@
+#define SORTINGS
+
 #include <iostream>
 #include <vector>
 using namespace std;
